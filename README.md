@@ -29,7 +29,10 @@ This project is an **E-Commerce Website** where users can:
 ✅ Enjoy a clean UI & responsive experience  
 ✅ Experience dynamic cart-management
 
-Perfect for practising React fundamentals such as:
+-------
+📌 Perfect for practising React fundamentals such as:
+
+
 ✔ State Management  
 ✔ Props & Components  
 ✔ Routing  
@@ -43,7 +46,7 @@ Perfect for practising React fundamentals such as:
 |------------|------|
 | ⚛ React.js | Frontend UI |
 | 📦 React Router | Navigation |
-| 💅 CSS/SCSS | Styling |
+| 💅 CSS/HTML | Styling |
 | 🛍️ localStorage | Cart Persistence |
 | 📁 Git & GitHub | Version control |
 
@@ -57,6 +60,9 @@ Perfect for practising React fundamentals such as:
 💰 **Price Summary** — See total cart value  
 📱 **Responsive Layout** — Works on all devices
 
+-----
+
+## 🖼️ Screenshots 
 A modern, responsive, and user-friendly **E-Commerce Web App** built with ❤️ using React.js.
 
 <img width="1840" height="4357" alt="image" src="https://github.com/user-attachments/assets/a658226b-7c50-42a1-9b57-63e92248334b" />
