@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>ShopSmart | Personalized Store</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>RAHUL SAHA-BAZAR-KOLKATA</h1>
+  <nav>
+    <a href="#">Home</a>
+    <a href="#products">Shop</a>
+    <a href="#Profile">Profile</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <div>
+    <h2>Welcome <span id="username">Guest</span> 👋</h2>
+    <p>Discover products tailored just for you.</p>
+    <button onclick="setName()">Personalize Me</button>
+  </div>
+  <img src="headphone.jpeg">
+
+</section>
+
+<section class="section" id="products">
+  <h2>Popular Products</h2>
+  <div class="products" id="productList"></div>
+</section>
+
+<section class="section">
+  <h2>Recommended For You ❤️</h2>
+  <div class="products" id="recommended"></div>
+</section>
+
+<footer>
+  <p>© 2026 RAHUL SAHA-BAZAR-KOLKATA . Personalized Shopping Experience.</p>
+</footer>
+
+<!-- JavaScript -->
+<script src="script.js"></script>
+</body>
+</html>
